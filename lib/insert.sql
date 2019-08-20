@@ -11,14 +11,14 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
       VALUES ("Sergeant Brown",
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Melissa", 
+      VALUES ("Melissa",
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Grinch", 
+      VALUES ("Grinch",
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Wendy", 
+      VALUES ("Wendy",
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES (null, 
+      VALUES (null,
 end
