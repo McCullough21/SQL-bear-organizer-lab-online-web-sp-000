@@ -8,17 +8,17 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
       VALUES ("Tabitha", 9, "female", "brown", "nice", 1)
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Sergeant Brown",
+      VALUES ("Sergeant Brown", 8, "male", "black", "mean", 1)
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Melissa",
+      VALUES ("Melissa", 9, "female", "brown", "mean", 0)
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Grinch",
+      VALUES ("Grinch", 11, "male", "brown", "nice", 0)
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES ("Wendy",
+      VALUES ("Wendy", 7, "female", "brown", "nice", 1)
 end
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-      VALUES (null,
+      VALUES (null, 5, "male", "black", "mean", 0)
 end
